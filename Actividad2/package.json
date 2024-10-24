@@ -1,0 +1,14 @@
+{
+  "name": "actividad2",
+  "version": "1.0.0",
+  "description": "Actividad 2 - Manejora de parámetros de consulta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonella Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
